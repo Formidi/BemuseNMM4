@@ -1,0 +1,85 @@
+{ "songs":
+  [ { "title": "Ne-Mo-Mi-Memorial"
+    , "artist": "ネモみ隊"
+    , "genre": "ネモみアル"
+    , "bpm": 175
+    , "charts":
+      [ { "md5": "0cc30ad46f92bf471c9939edf4d1961c"
+        , "info":
+          { "title": "Ne-Mo-Mi-Memorial"
+          , "artist": "ネモみ隊"
+          , "genre": "ネモみアル"
+          , "subtitles":
+            [ "NORMAL"
+            ]
+          , "subartists": []
+          , "difficulty": 2
+          , "level": 6
+          }
+        , "noteCount": 618
+        , "bpm":
+          { "init": 175
+          , "min": 175
+          , "median": 175
+          , "max": 175
+          }
+        , "duration": 150.85714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "2_nmm.bms"
+        }
+      , { "md5": "cd50885353e96ff9a3475eef81b664a6"
+        , "info":
+          { "title": "Ne-Mo-Mi-Memorial"
+          , "artist": "ネモみ隊"
+          , "genre": "ネモみアル"
+          , "subtitles":
+            [ "HYPER"
+            ]
+          , "subartists": []
+          , "difficulty": 3
+          , "level": 10
+          }
+        , "noteCount": 1283
+        , "bpm":
+          { "init": 175
+          , "min": 175
+          , "median": 175
+          , "max": 175
+          }
+        , "duration": 150.85714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "3_nmm.bms"
+        }
+      , { "md5": "f971d91daf3f0d0b8d52578ea1f49546"
+        , "info":
+          { "title": "Ne-Mo-Mi-Memorial"
+          , "artist": "ネモみ隊"
+          , "genre": "ネモみアル"
+          , "subtitles":
+            [ "Another"
+            ]
+          , "subartists": []
+          , "difficulty": 4
+          , "level": 12
+          }
+        , "noteCount": 1684
+        , "bpm":
+          { "init": 175
+          , "min": 175
+          , "median": 175
+          , "max": 175
+          }
+        , "duration": 150.85714285714286
+        , "scratch": true
+        , "keys": "7K"
+        , "file": "4_nmm.bms"
+        }
+      ]
+    , "warnings": []
+    , "id": "nemomi_memorial_ogg"
+    , "path": "nemomi_memorial_ogg"
+    }
+  ]
+}
